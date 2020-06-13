@@ -1,0 +1,4 @@
+Mysql_host: 'localhost'
+Mysql_user: 'root'
+Mysql_password: '1234'
+Mysql_db: 'FLOG_DB'
